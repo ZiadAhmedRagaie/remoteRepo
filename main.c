@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("First update");
+    printf("Second Update");
     return 0;
 }
